@@ -1,0 +1,128 @@
+{
+    "meta": {
+        "page": {
+            "current-page": 1,
+            "per-page": 15,
+            "from": 1,
+            "to": 5,
+            "total": 5,
+            "last-page": 1
+        }
+    },
+    "links": {
+        "first": "https://classify-rest.labs.nic.at/api/v1/statuses?page%5Bnumber%5D=1&page%5Bsize%5D=15",
+        "last": "https://classify-rest.labs.nic.at/api/v1/statuses?page%5Bnumber%5D=1&page%5Bsize%5D=15"
+    },
+    "data": [
+        {
+            "type": "statuses",
+            "id": "1",
+            "attributes": {
+                "measurement-status-id": 1,
+                "status": "success"
+            },
+            "relationships": {
+                "measurements": {
+                    "meta": {
+                        "total": 0
+                    },
+                    "links": {
+                        "self": "https://classify-rest.labs.nic.at/api/v1/statuses/1/relationships/measurements",
+                        "related": "https://classify-rest.labs.nic.at/api/v1/statuses/1/measurements"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://classify-rest.labs.nic.at/api/v1/statuses/1"
+            }
+        },
+        {
+            "type": "statuses",
+            "id": "2",
+            "attributes": {
+                "measurement-status-id": 2,
+                "status": "panic"
+            },
+            "relationships": {
+                "measurements": {
+                    "meta": {
+                        "total": 0
+                    },
+                    "links": {
+                        "self": "https://classify-rest.labs.nic.at/api/v1/statuses/2/relationships/measurements",
+                        "related": "https://classify-rest.labs.nic.at/api/v1/statuses/2/measurements"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://classify-rest.labs.nic.at/api/v1/statuses/2"
+            }
+        },
+        {
+            "type": "statuses",
+            "id": "3",
+            "attributes": {
+                "measurement-status-id": 3,
+                "status": "unsure"
+            },
+            "relationships": {
+                "measurements": {
+                    "meta": {
+                        "total": 0
+                    },
+                    "links": {
+                        "self": "https://classify-rest.labs.nic.at/api/v1/statuses/3/relationships/measurements",
+                        "related": "https://classify-rest.labs.nic.at/api/v1/statuses/3/measurements"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://classify-rest.labs.nic.at/api/v1/statuses/3"
+            }
+        },
+        {
+            "type": "statuses",
+            "id": "4",
+            "attributes": {
+                "measurement-status-id": 4,
+                "status": "noncomprende"
+            },
+            "relationships": {
+                "measurements": {
+                    "meta": {
+                        "total": 0
+                    },
+                    "links": {
+                        "self": "https://classify-rest.labs.nic.at/api/v1/statuses/4/relationships/measurements",
+                        "related": "https://classify-rest.labs.nic.at/api/v1/statuses/4/measurements"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://classify-rest.labs.nic.at/api/v1/statuses/4"
+            }
+        },
+        {
+            "type": "statuses",
+            "id": "5",
+            "attributes": {
+                "measurement-status-id": 5,
+                "status": "loadfail"
+            },
+            "relationships": {
+                "measurements": {
+                    "meta": {
+                        "total": 0
+                    },
+                    "links": {
+                        "self": "https://classify-rest.labs.nic.at/api/v1/statuses/5/relationships/measurements",
+                        "related": "https://classify-rest.labs.nic.at/api/v1/statuses/5/measurements"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://classify-rest.labs.nic.at/api/v1/statuses/5"
+            }
+        }
+    ]
+}

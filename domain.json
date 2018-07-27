@@ -1,0 +1,16 @@
+{
+    "data": {
+        "type": "domains",
+        "id": "2",
+        "attributes": {
+            "domain-id": 2,
+            "domain-name": "denic.de",
+            "u-label": "denic.de",
+            "create-date": "2014-01-01 00:00:00"
+        },
+        "relationships": {},
+        "links": {
+            "self": "https://classify-rest.labs.nic.at/api/v1/domains/2"
+        }
+    }
+}

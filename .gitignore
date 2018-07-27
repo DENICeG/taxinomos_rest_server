@@ -1,0 +1,10 @@
+*
+!*/
+!*.*
+!Jenkinsfile
+
+local/
+*.out
+build/rpm
+build/bin
+domain*.txt
