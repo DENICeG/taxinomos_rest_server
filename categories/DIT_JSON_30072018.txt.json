@@ -1,0 +1,22 @@
+cat cat.json | jq '.[] | { "type":"categories", id: (."website-category-id"|tostring),"attributes": { "website-category-id":."website-category-id",  "maincategory":.maincategory, "subcategory":.subcategory, "lang":"en", "description":.description }, "links": { "self":  ("http://x11980.adm.denic.de:8080/api/v1/categories/"  + (."website-category-id"|tostring)) }, "relationships" : {"measurements":  { "meta" :  { "total":2 }, "links":  { "self": ("http://x11980.adm.denic.de:8080/api/v1/categories/"  + (."website-category-id"|tostring) + "/relationships/measurements"), "related":("http://x11980.adm.denic.de:8080/api/v1/categories/"+ (."website-category-id"|tostring) + "/measurements")  } } } }' >  /tmp/cat2.json
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

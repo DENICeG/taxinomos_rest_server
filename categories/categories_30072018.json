@@ -1,0 +1,3519 @@
+{
+  "meta": {
+    "page": {
+      "current-page": 1,
+      "per-page": 15,
+      "from": 1,
+      "to": 15,
+      "total": 15,
+      "last-page": 1
+    }
+  },
+  "links": {
+    "first": "http://x11980.adm.denic.de/api/v1/categories?page%5Bnumber%5D=1&page%5Bsize%5D=15",
+    "next": "http://x11980.adm.denic.de/api/v1/categories?page%5Bnumber%5D=2&page%5Bsize%5D=15",
+    "last": "http://x11980.adm.denic.de/api/v1/categories?page%5Bnumber%5D=10&page%5Bsize%5D=15"
+  },
+  "data": [
+    {
+      "type": "categories",
+      "id": "1000",
+      "attributes": {
+        "website-category-id": 1000,
+        "maincategory": "Agriculture, Forestry, Fishing",
+        "subcategory": "",
+        "lang": "en",
+        "description": ""
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1000"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1000/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1000/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1001",
+      "attributes": {
+        "website-category-id": 1001,
+        "maincategory": "Agriculture, Forestry, Fishing",
+        "subcategory": "Agriculture",
+        "lang": "en",
+        "description": "Activities relating to the growing & planting of plants and raising & breeding of animals for food production and other purposes. Including farms, vineyards, horse breeding, production of fur skins and renting of agricultural equipment."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1001"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1001/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1001/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1002",
+      "attributes": {
+        "website-category-id": 1002,
+        "maincategory": "Agriculture, Forestry, Fishing",
+        "subcategory": "Fishing",
+        "lang": "en",
+        "description": "Fishing and farming of marine animals and fish for commercial purposes (includes whale catching, gathering shellfish). Excludes processing of fish, recreation fishing and boat/ship activities."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1002"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1002/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1002/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1003",
+      "attributes": {
+        "website-category-id": 1003,
+        "maincategory": "Agriculture, Forestry, Fishing",
+        "subcategory": "Forestry",
+        "lang": "en",
+        "description": "Growing & logging of forests, gathering of forest products (e.g. truffles, cork, mosses), and other forestry services (e.g. forest fire fighting, forest tree nurseries, forest replanting)."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1003"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1003/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1003/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1099",
+      "attributes": {
+        "website-category-id": 1099,
+        "maincategory": "Agriculture, Forestry, Fishing",
+        "subcategory": "Other (Agriculture, Forestry, Fishing)",
+        "lang": "en",
+        "description": "Other agriculture, forestry or fishing services not included in another category."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1099"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1099/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1099/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1100",
+      "attributes": {
+        "website-category-id": 1100,
+        "maincategory": "Mining and Drilling",
+        "subcategory": "",
+        "lang": "en",
+        "description": ""
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1100"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1100/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1100/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1101",
+      "attributes": {
+        "website-category-id": 1101,
+        "maincategory": "Mining and Drilling",
+        "subcategory": "Mining and Drilling",
+        "lang": "en",
+        "description": "Mining, drilling and quarrying activities, including the extraction of petroleum and natural gas."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1101"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1101/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1101/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1200",
+      "attributes": {
+        "website-category-id": 1200,
+        "maincategory": "Manufacturing",
+        "subcategory": "",
+        "lang": "en",
+        "description": ""
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1200"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1200/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1200/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1201",
+      "attributes": {
+        "website-category-id": 1201,
+        "maincategory": "Manufacturing",
+        "subcategory": "Manufacturing of Agricultural, Forestry and Gardening Supplies",
+        "lang": "en",
+        "description": "Manufacture of agricultural, forestry and gardening supplies including fertilisers, pesticides and agricultural machinery (tractors, lawnmowers, harvesters, etc.)."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1201"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1201/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1201/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1202",
+      "attributes": {
+        "website-category-id": 1202,
+        "maincategory": "Manufacturing",
+        "subcategory": "Manufacturing of Chemicals",
+        "lang": "en",
+        "description": "Manufacture of general chemicals, including petroleum products, plastics, paints and detergents."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1202"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1202/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1202/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1203",
+      "attributes": {
+        "website-category-id": 1203,
+        "maincategory": "Manufacturing",
+        "subcategory": "Manufacturing of Clothes and Accessories",
+        "lang": "en",
+        "description": "Manufacture of textiles, jewellery and clothing, including finishing activities like bleaching & dying, manufacturers of carpets, cushions & curtains, miliners and custom tailoring."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1203"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1203/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1203/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1204",
+      "attributes": {
+        "website-category-id": 1204,
+        "maincategory": "Manufacturing",
+        "subcategory": "Manufacturing of Computer, Electronic and Optical Products",
+        "lang": "en",
+        "description": "Manufacturing of computing and electronic products, including measurement instruments, photographic equipment, batteries and wiring devices."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1204"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1204/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1204/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1205",
+      "attributes": {
+        "website-category-id": 1205,
+        "maincategory": "Manufacturing",
+        "subcategory": "Manufacturing of Construction Products",
+        "lang": "en",
+        "description": "Manufacture of parts that are integral to a building (e.g. wooden beams, windows, flooring), manufacture of construction equipment, and activities of stonemasons and other traditional craftsmen."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1205"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1205/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1205/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1206",
+      "attributes": {
+        "website-category-id": 1206,
+        "maincategory": "Manufacturing",
+        "subcategory": "Manufacturing of Food Products",
+        "lang": "en",
+        "description": "Processing and manufacture of food, drink and tobacco products. Note, this includes bakeries and pastry shops even though they also retail the food products. Manufacture of food and food supplements for farm animals and pets. This excludes food prepared for immediate consumption."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1206"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1206/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1206/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1207",
+      "attributes": {
+        "website-category-id": 1207,
+        "maincategory": "Manufacturing",
+        "subcategory": "Manufacturing of Furniture and Appliances",
+        "lang": "en",
+        "description": "Manufacture of furniture and appliances, including finishing activities like upholstery of seats."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1207"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1207/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1207/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1208",
+      "attributes": {
+        "website-category-id": 1208,
+        "maincategory": "Manufacturing",
+        "subcategory": "Manufacturing of Healthcare and Medical products",
+        "lang": "en",
+        "description": "Manufacture of pharmaceutical products, medicines and medical equipment. Also includes the processing of blood."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1208"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1208/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1208/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1209",
+      "attributes": {
+        "website-category-id": 1209,
+        "maincategory": "Manufacturing",
+        "subcategory": "Manufacturing of Information Technology and Telecommunications Goods",
+        "lang": "en",
+        "description": "Manufacture of computers & peripheral equipment, communication equipment and consumer electronics. Manufacture of electronic components and boards."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1209"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1209/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1209/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1210",
+      "attributes": {
+        "website-category-id": 1210,
+        "maincategory": "Manufacturing",
+        "subcategory": "Manufacturing of Leisure Equipment",
+        "lang": "en",
+        "description": "Manufacture of musical instruments, sports goods, games, toys and other leisure equipment."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1210"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1210/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1210/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1211",
+      "attributes": {
+        "website-category-id": 1211,
+        "maincategory": "Manufacturing",
+        "subcategory": "Manufacturing of Machinery and Equipment",
+        "lang": "en",
+        "description": "Manufacture of machinery and equipment excluding items used predominantly for construction, agriculture or food/textile manufacturing. Including lifting equipment, power-driven hand tools and retreading machines."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1211"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1211/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1211/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1212",
+      "attributes": {
+        "website-category-id": 1212,
+        "maincategory": "Manufacturing",
+        "subcategory": "Manufacturing of Metal Products",
+        "lang": "en",
+        "description": "Manufacture of metal products excluding items used predominantly in construction, energy production/utilities, or transportation/storage. Including manufacture of weapons, forging and machining."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1212"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1212/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1212/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1213",
+      "attributes": {
+        "website-category-id": 1213,
+        "maincategory": "Manufacturing",
+        "subcategory": "Manufacturing of Motor Vehicles",
+        "lang": "en",
+        "description": "Manufacture of cars and car accessories, including tyres, trailers and electrical equipment. Excluding motorcycles and other forms of transport."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1213"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1213/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1213/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1214",
+      "attributes": {
+        "website-category-id": 1214,
+        "maincategory": "Manufacturing",
+        "subcategory": "Manufacturing of Non-Electrical Consumer Goods",
+        "lang": "en",
+        "description": "Manufacture of various other non-electrical consumer goods including safety equipment, umbrellas, pens, candles, coins and cigarette lighters."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1214"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1214/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1214/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1215",
+      "attributes": {
+        "website-category-id": 1215,
+        "maincategory": "Manufacturing",
+        "subcategory": "Manufacturing of Raw Materials and Parts",
+        "lang": "en",
+        "description": "Manufacture of components and raw materials, including products made from rubber, plastic, glass and ceramics, and manufacture of basic metals. Excluding tyres, and construction equipment and materials."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1215"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1215/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1215/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1216",
+      "attributes": {
+        "website-category-id": 1216,
+        "maincategory": "Manufacturing",
+        "subcategory": "Manufacturing of Transportation Equipment",
+        "lang": "en",
+        "description": "Manufacture of modes of transportation (excluding cars) and related equipment, and storage equipment such as steel drums and packaging."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1216"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1216/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1216/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1217",
+      "attributes": {
+        "website-category-id": 1217,
+        "maincategory": "Manufacturing",
+        "subcategory": "Manufacturing of Wood and Paper Products",
+        "lang": "en",
+        "description": "Manufacture of various wooden or paper products for use in the home, including wooden statuettes and ornaments, baskets, picture frames and sanitary products. Manufacture of/from pulp, paper and paperboard, and manufacture of paper stationary."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1217"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1217/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1217/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1299",
+      "attributes": {
+        "website-category-id": 1299,
+        "maincategory": "Manufacturing",
+        "subcategory": "Other (Manufacturing)",
+        "lang": "en",
+        "description": "Other manufacturing activities not included in another category"
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1299"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1299/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1299/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1300",
+      "attributes": {
+        "website-category-id": 1300,
+        "maincategory": "Energy and Utility Suppliers",
+        "subcategory": "",
+        "lang": "en",
+        "description": ""
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1300"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1300/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1300/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1301",
+      "attributes": {
+        "website-category-id": 1301,
+        "maincategory": "Energy and Utility Suppliers",
+        "subcategory": "Electricity",
+        "lang": "en",
+        "description": "Electricity generation services including production, transmission, distribution and trade. Also includes manufacture of apparatus for electricity generation and distribution."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1301"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1301/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1301/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1302",
+      "attributes": {
+        "website-category-id": 1302,
+        "maincategory": "Energy and Utility Suppliers",
+        "subcategory": "Gas",
+        "lang": "en",
+        "description": "Gas distribution services, including manufacture, supply and trade."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1302"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1302/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1302/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1303",
+      "attributes": {
+        "website-category-id": 1303,
+        "maincategory": "Energy and Utility Suppliers",
+        "subcategory": "Water Supply",
+        "lang": "en",
+        "description": "Water collection, treatment & supply, and sewerage activities."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1303"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1303/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1303/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1304",
+      "attributes": {
+        "website-category-id": 1304,
+        "maincategory": "Energy and Utility Suppliers",
+        "subcategory": "Waste Collection, Treatment and Disposal Activities",
+        "lang": "en",
+        "description": "Waste collection, treatment & disposal, as well as recovery of materials and decontamination activities. Includes car & vehicle dismantlers, asbestos removal and recycling."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1304"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1304/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1304/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1400",
+      "attributes": {
+        "website-category-id": 1400,
+        "maincategory": "Construction",
+        "subcategory": "",
+        "lang": "en",
+        "description": ""
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1400"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1400/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1400/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1401",
+      "attributes": {
+        "website-category-id": 1401,
+        "maincategory": "Construction",
+        "subcategory": "Architects & Planners",
+        "lang": "en",
+        "description": "Architectural services (e.g. urban design, structural building design and building surveyors)."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1401"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1401/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1401/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1402",
+      "attributes": {
+        "website-category-id": 1402,
+        "maincategory": "Construction",
+        "subcategory": "Development of Building Projects",
+        "lang": "en",
+        "description": "Construction of residential and non-residential buildings, including construction of extensions and attic/garage conversions. Project management of building projects. Demolition and site preparation services including excavation, test drilling and clearing of building sites."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1402"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1402/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1402/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1403",
+      "attributes": {
+        "website-category-id": 1403,
+        "maincategory": "Construction",
+        "subcategory": "Development of Infrastructure Projects",
+        "lang": "en",
+        "description": "Project management and construction of roads, railways, and other infrastructure & civil engineering projects. Including sports facilities, and utility and water projects (e.g. reservoirs, power plants, harbours). Also includes related activies like painting of road markings."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1403"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1403/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1403/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1404",
+      "attributes": {
+        "website-category-id": 1404,
+        "maincategory": "Construction",
+        "subcategory": "Electrical Installation",
+        "lang": "en",
+        "description": "Electrical installation, including electricians, lighting experts, PAT testing services, aerial/network specialists and installation of solar panels."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1404"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1404/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1404/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1405",
+      "attributes": {
+        "website-category-id": 1405,
+        "maincategory": "Construction",
+        "subcategory": "Plumbing, Heating and Air-Conditioning Installation",
+        "lang": "en",
+        "description": "Plumbing, heating and air-conditioning services, including plumbers, drainage specialists, heating engineers and bathroom & swimming pool specialists."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1405"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1405/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1405/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1406",
+      "attributes": {
+        "website-category-id": 1406,
+        "maincategory": "Construction",
+        "subcategory": "Roofing Activities",
+        "lang": "en",
+        "description": "Roofing activities including roof erection, guttering and roof tiling, slating and thatching."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1406"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1406/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1406/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1407",
+      "attributes": {
+        "website-category-id": 1407,
+        "maincategory": "Construction",
+        "subcategory": "Painting and Glazing",
+        "lang": "en",
+        "description": "Painting and glazing services, including: painters & decorators, glazers (fitters of windows & mirrors), stained glass specialists and conservatory construction."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1407"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1407/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1407/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1408",
+      "attributes": {
+        "website-category-id": 1408,
+        "maincategory": "Construction",
+        "subcategory": "Floor and Wall Covering",
+        "lang": "en",
+        "description": "Floor and wall covering services, including laying, tiling, hanging or fitting of tiles, wallpaper, interior cladding and carpets."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1408"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1408/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1408/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1409",
+      "attributes": {
+        "website-category-id": 1409,
+        "maincategory": "Construction",
+        "subcategory": "Plastering",
+        "lang": "en",
+        "description": "Plastering and rendering services including application of stucco and other lathing materials."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1409"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1409/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1409/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1410",
+      "attributes": {
+        "website-category-id": 1410,
+        "maincategory": "Construction",
+        "subcategory": "Joinery Installation",
+        "lang": "en",
+        "description": "Joinery installation including carpentry, joinery, kitchen/bedroom/shop design & installation, and installers of doors and staircases."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1410"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1410/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1410/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1411",
+      "attributes": {
+        "website-category-id": 1411,
+        "maincategory": "Construction",
+        "subcategory": "Rental of Construction and Earthmoving Machinery",
+        "lang": "en",
+        "description": "Renting & leasing of construction equipment/machinery without erection/operator, including crane lorries, scaffolding and machine tools."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1411"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1411/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1411/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1499",
+      "attributes": {
+        "website-category-id": 1499,
+        "maincategory": "Construction",
+        "subcategory": "Other (Construction)",
+        "lang": "en",
+        "description": "Other construction activities including access/scaffolding suppliers, construction of foundations, damp proofing, installation of elevators, revolving doors, lightning conductors and cleaning following construction. Other construction-related organisations not included in other categories."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1499"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1499/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1499/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1500",
+      "attributes": {
+        "website-category-id": 1500,
+        "maincategory": "Automotive",
+        "subcategory": "",
+        "lang": "en",
+        "description": ""
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1500"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1500/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1500/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1501",
+      "attributes": {
+        "website-category-id": 1501,
+        "maincategory": "Automotive",
+        "subcategory": "Sale of Motor Vehicles",
+        "lang": "en",
+        "description": "Sale of motor vehicles (e.g. car dealerships)."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1501"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1501/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1501/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1502",
+      "attributes": {
+        "website-category-id": 1502,
+        "maincategory": "Automotive",
+        "subcategory": "Maintenance and Repair of Motor Vehicles",
+        "lang": "en",
+        "description": "Maintenance and repair of motor vehicles including breakdown recovery, car repairs, car servicing, mechanics, auto engineers and petrol stations."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1502"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1502/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1502/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1503",
+      "attributes": {
+        "website-category-id": 1503,
+        "maincategory": "Automotive",
+        "subcategory": "Rental of Motor Vehicles",
+        "lang": "en",
+        "description": "Rental of motor vehicles (including cars, trucks and recreational vehicles) without a driver."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1503"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1503/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1503/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1504",
+      "attributes": {
+        "website-category-id": 1504,
+        "maincategory": "Automotive",
+        "subcategory": "Sale, Maintenance and Repair of Motorcycles and Related Parts and Accessories",
+        "lang": "en",
+        "description": "Motorcycle sales, repairs & services including sale of parts and accessories."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1504"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1504/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1504/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1505",
+      "attributes": {
+        "website-category-id": 1505,
+        "maincategory": "Automotive",
+        "subcategory": "Trade of Motor Vehicle Parts and Accessories",
+        "lang": "en",
+        "description": "Wholesale & retail trade of car accessories, parts & electrics (excludes retail of fuel)."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1505"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1505/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1505/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1599",
+      "attributes": {
+        "website-category-id": 1599,
+        "maincategory": "Automotive",
+        "subcategory": "Other (Automotive)",
+        "lang": "en",
+        "description": "Other automotive services not included in another category."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1599"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1599/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1599/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1600",
+      "attributes": {
+        "website-category-id": 1600,
+        "maincategory": "Trade",
+        "subcategory": "",
+        "lang": "en",
+        "description": ""
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1600"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1600/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1600/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1601",
+      "attributes": {
+        "website-category-id": 1601,
+        "maincategory": "Trade",
+        "subcategory": "General Mixed Trade",
+        "lang": "en",
+        "description": "Retail and wholsale of mixed goods or specialised goods not included in another category, e.g. retail through vending machines, mail order and online shops. Excludes supermarkets where food and drink products dominate."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1601"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1601/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1601/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1602",
+      "attributes": {
+        "website-category-id": 1602,
+        "maincategory": "Trade",
+        "subcategory": "Sale of Agricultural, Forestry and Gardening Supplies",
+        "lang": "en",
+        "description": "Sale of agricultural equipment, materials and supplies, including sale of live animals, flowers and plants at garden centres/nurseries and pet shops. Wholesale of grains and animal feeds."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1602"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1602/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1602/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1603",
+      "attributes": {
+        "website-category-id": 1603,
+        "maincategory": "Trade",
+        "subcategory": "Sale of Clothes and Accessories",
+        "lang": "en",
+        "description": "Wholesale/retail of textiles, clothing, fur, footwear and leather goods. Including retail blinds and carperts, retail of clocks & watches, jewellers, bridal shops & dressmakers, and fancy dress shops. Repair of clocks, watches, footwear and leather goods as well as washing and dry cleaning of clothing and textiles."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1603"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1603/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1603/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1604",
+      "attributes": {
+        "website-category-id": 1604,
+        "maincategory": "Trade",
+        "subcategory": "Sale of Construction Products",
+        "lang": "en",
+        "description": "Sale of parts that are integral to a building including builder's merchants and bathroom showrooms. Retail of construction machinery and equipment including DIY stores."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1604"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1604/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1604/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1605",
+      "attributes": {
+        "website-category-id": 1605,
+        "maincategory": "Trade",
+        "subcategory": "Sale of Electronics and Consumer goods",
+        "lang": "en",
+        "description": "Retail, repair and parts of electrical household appliances and consumer electronics."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1605"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1605/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1605/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1606",
+      "attributes": {
+        "website-category-id": 1606,
+        "maincategory": "Trade",
+        "subcategory": "Sale of Food Products",
+        "lang": "en",
+        "description": "Sale of food, beverages and tobacco, either from a physical shop or an online retailer, excluding food manufacturers such as bakeries. E.g. farm shops, butchers, sweet shops, health food shops, off-licenses and wine merchants."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1606"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1606/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1606/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1607",
+      "attributes": {
+        "website-category-id": 1607,
+        "maincategory": "Trade",
+        "subcategory": "Sale of Furniture and Appliances",
+        "lang": "en",
+        "description": "Retail, wholesale, rental and repair of furniture & household goods, including antique dealers, auction rooms, reupholstery, piano-tuning and keycutting services."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1607"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1607/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1607/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1608",
+      "attributes": {
+        "website-category-id": 1608,
+        "maincategory": "Trade",
+        "subcategory": "Sale of Industrial Products",
+        "lang": "en",
+        "description": "Retail of industrial products including fuels, metals, chemical, rubber and plastic products."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1608"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1608/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1608/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1609",
+      "attributes": {
+        "website-category-id": 1609,
+        "maincategory": "Trade",
+        "subcategory": "Sale of Information Technology and Telecommunications goods",
+        "lang": "en",
+        "description": "Wholesale, retail and repair of IT and telecommunication goods, including hardware, software, microchips, games consoles, mobile phones, televisions and aerial supplies."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1609"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1609/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1609/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1610",
+      "attributes": {
+        "website-category-id": 1610,
+        "maincategory": "Trade",
+        "subcategory": "Sale of Leisure Equipment",
+        "lang": "en",
+        "description": "Retail of leisure equipment, including art & craft shops, cycle shops, toy & model shops, and party supplies"
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1610"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1610/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1610/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1611",
+      "attributes": {
+        "website-category-id": 1611,
+        "maincategory": "Trade",
+        "subcategory": "Sale of Machinery and Equipment",
+        "lang": "en",
+        "description": "Retail and wholesale of machinery, industrial equipment, ships and aircraft. Wholesale of machinery & equipment."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1611"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1611/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1611/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1612",
+      "attributes": {
+        "website-category-id": 1612,
+        "maincategory": "Trade",
+        "subcategory": "Sale of Medical and Pharmaceutical products",
+        "lang": "en",
+        "description": "Wholesale and retail of pharmaceutical, medical and orthopaedic goods including dispensing chemists."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1612"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1612/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1612/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1613",
+      "attributes": {
+        "website-category-id": 1613,
+        "maincategory": "Trade",
+        "subcategory": "Sale of Published Goods",
+        "lang": "en",
+        "description": "Retail of books, newspapers and stationary."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1613"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1613/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1613/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1699",
+      "attributes": {
+        "website-category-id": 1699,
+        "maincategory": "Trade",
+        "subcategory": "Other (Trade)",
+        "lang": "en",
+        "description": "Other retail or wholesale services not included in another category."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1699"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1699/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1699/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1700",
+      "attributes": {
+        "website-category-id": 1700,
+        "maincategory": "Transportation",
+        "subcategory": "",
+        "lang": "en",
+        "description": ""
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1700"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1700/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1700/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1701",
+      "attributes": {
+        "website-category-id": 1701,
+        "maincategory": "Transportation",
+        "subcategory": "Transport of Persons",
+        "lang": "en",
+        "description": "Passenger air transport, including scheduled & charter flights, aero clubs and sightseeing flights. Passenger transport by land or water, including taxi operation, coach hire and railways."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1701"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1701/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1701/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1702",
+      "attributes": {
+        "website-category-id": 1702,
+        "maincategory": "Transportation",
+        "subcategory": "Transport of Freight",
+        "lang": "en",
+        "description": "Transport of goods by rail, air, land, pipeline, water or space, and space transport of passengers. Renting & leasing of air transport equipment. Services related to freight transport and storage activities including production of storage containers, repair of transportation, removals & storage, house clearance and packaging activities. Postal & courier activities, such as pickup, transport and delivery of letters and parcels."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1702"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1702/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1702/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1799",
+      "attributes": {
+        "website-category-id": 1799,
+        "maincategory": "Transportation",
+        "subcategory": "Other (Transportation)",
+        "lang": "en",
+        "description": "Other transportation activities not included in another category."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1799"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1799/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1799/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1800",
+      "attributes": {
+        "website-category-id": 1800,
+        "maincategory": "Tourism and Accommodation",
+        "subcategory": "",
+        "lang": "en",
+        "description": ""
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1800"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1800/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1800/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1801",
+      "attributes": {
+        "website-category-id": 1801,
+        "maincategory": "Tourism and Accommodation",
+        "subcategory": "Hotels, Guest Houses and Hostels",
+        "lang": "en",
+        "description": "Short stay accommodation with services (cleaning, food, etc) available. Including bed & breakfasts, independent hotels & hotel chains, youth hostels, guest houses and motels."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1801"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1801/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1801/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1802",
+      "attributes": {
+        "website-category-id": 1802,
+        "maincategory": "Tourism and Accommodation",
+        "subcategory": "Self-Catered Acommodation",
+        "lang": "en",
+        "description": "Self-contained short-stay accmmodation, including holiday cottages, villas and chalets."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1802"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1802/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1802/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1803",
+      "attributes": {
+        "website-category-id": 1803,
+        "maincategory": "Tourism and Accommodation",
+        "subcategory": "Camp Sites and Caravan Parks",
+        "lang": "en",
+        "description": "Camp sites, caravan parks, holiday centres and villages."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1803"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1803/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1803/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1804",
+      "attributes": {
+        "website-category-id": 1804,
+        "maincategory": "Tourism and Accommodation",
+        "subcategory": "Travel Agency and Tour Operators",
+        "lang": "en",
+        "description": "Tourist activities, such as sightseeing trips and leisure activities that are targeted at holiday-makers, event ticket retailers, tourist locations and event venues. Travel agency activities, including retail/booking of travel, tour, and accommodation services."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1804"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1804/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1804/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1899",
+      "attributes": {
+        "website-category-id": 1899,
+        "maincategory": "Tourism and Accommodation",
+        "subcategory": "Other (Tourism and Accommodation)",
+        "lang": "en",
+        "description": "Other tourism activities and accommodation not included in another category, including student residences, boarding houses, and websites primarily offering tourism-related information as a service."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1899"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1899/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1899/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1900",
+      "attributes": {
+        "website-category-id": 1900,
+        "maincategory": "Restaurants, Bars, Cafes, Catering",
+        "subcategory": "",
+        "lang": "en",
+        "description": ""
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1900"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1900/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1900/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1901",
+      "attributes": {
+        "website-category-id": 1901,
+        "maincategory": "Restaurants, Bars, Cafes, Catering",
+        "subcategory": "Restaurants, Cafes, Food Stands, Canteens",
+        "lang": "en",
+        "description": "Cafes and restaurants, distinguished as specialising in non-alcoholic drinks (e.g. tea or coffee) and/or food and allowing customers to eat/drink on-site. Retailers of meals/snacks that are 'ready to eat' but who do not allow customers to eat on-site, e.g. takeaways."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1901"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1901/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1901/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1902",
+      "attributes": {
+        "website-category-id": 1902,
+        "maincategory": "Restaurants, Bars, Cafes, Catering",
+        "subcategory": "Bars",
+        "lang": "en",
+        "description": "Beverage serving activities, including public houses (pubs), bars, taverns, nightclubs etc. characterised as having an area for social drinking, unlike restaurants which are primarily for eating."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1902"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1902/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1902/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1903",
+      "attributes": {
+        "website-category-id": 1903,
+        "maincategory": "Restaurants, Bars, Cafes, Catering",
+        "subcategory": "Event Catering",
+        "lang": "en",
+        "description": "Event catering activities, usually on a contract-basis."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1903"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1903/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1903/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "1999",
+      "attributes": {
+        "website-category-id": 1999,
+        "maincategory": "Restaurants, Bars, Cafes, Catering",
+        "subcategory": "Other (Restaurants, Bars, Cafes, Catering)",
+        "lang": "en",
+        "description": "Other restaurants, bars, cafes or catering activities not included in another category."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1999"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/1999/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/1999/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2000",
+      "attributes": {
+        "website-category-id": 2000,
+        "maincategory": "Publishing, Printing and Photography",
+        "subcategory": "",
+        "lang": "en",
+        "description": ""
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2000"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2000/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2000/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2001",
+      "attributes": {
+        "website-category-id": 2001,
+        "maincategory": "Publishing, Printing and Photography",
+        "subcategory": "Publishing & Printing",
+        "lang": "en",
+        "description": "Publishing of books, directories, mailing lists, journals, periodicals, newspapers, greeting cards and related activities. Printing, reproduction of recorded media and related activities. Includes printing onto textiles and binding activities."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2001"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2001/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2001/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2002",
+      "attributes": {
+        "website-category-id": 2002,
+        "maincategory": "Publishing, Printing and Photography",
+        "subcategory": "Design & Photography",
+        "lang": "en",
+        "description": "Specialised design activities from a range of disciplines, including fashion design, industrial design, graphic design and interior decorators. Photographic activities including portrait and specialist photography, and film processing."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2002"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2002/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2002/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2100",
+      "attributes": {
+        "website-category-id": 2100,
+        "maincategory": "Leisure & Entertainment",
+        "subcategory": "",
+        "lang": "en",
+        "description": ""
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2100"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2100/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2100/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2101",
+      "attributes": {
+        "website-category-id": 2101,
+        "maincategory": "Leisure & Entertainment",
+        "subcategory": "Cultural & Arts",
+        "lang": "en",
+        "description": "Creative arts and entertainment activities, including libraries, theatre, music and writing. Cultural and natural tourist attractions, including museums, galleries, historical sites, zoos and botanical gardens. Excludes sports, general recreational activities, gambling and commercial art galleries."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2101"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2101/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2101/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2102",
+      "attributes": {
+        "website-category-id": 2102,
+        "maincategory": "Leisure & Entertainment",
+        "subcategory": "Television, Film & Music Production",
+        "lang": "en",
+        "description": "Production and distribution of television, film, sound and music, including radio and television broadcasting and activities of cinemas."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2102"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2102/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2102/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2103",
+      "attributes": {
+        "website-category-id": 2103,
+        "maincategory": "Leisure & Entertainment",
+        "subcategory": "Sport",
+        "lang": "en",
+        "description": "Sports activities including sports facilities & clubs, fitness facilities such as gyms, health clubs and leisure centres, and recreational fishing, hunting and racing."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2103"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2103/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2103/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2104",
+      "attributes": {
+        "website-category-id": 2104,
+        "maincategory": "Leisure & Entertainment",
+        "subcategory": "Gambling & Betting",
+        "lang": "en",
+        "description": "Gambling & betting activities, including bookmakers, casinos and lottery ticket retailers."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2104"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2104/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2104/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2105",
+      "attributes": {
+        "website-category-id": 2105,
+        "maincategory": "Leisure & Entertainment",
+        "subcategory": "Adult Entertainment",
+        "lang": "en",
+        "description": "Adult entertainment intended to be used by adults only, typically including sexual content. Including sex shops, strip clubs and pornography."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2105"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2105/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2105/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2199",
+      "attributes": {
+        "website-category-id": 2199,
+        "maincategory": "Leisure & Entertainment",
+        "subcategory": "Other (Leisure & Entertainment)",
+        "lang": "en",
+        "description": "Other leisure activities not included elsewhere, including rental of recreational goods & media, massage parlours, discos, night clubs, amusement/theme parks and other recreational/physical well-being activities."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2199"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2199/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2199/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2200",
+      "attributes": {
+        "website-category-id": 2200,
+        "maincategory": "Beauty and Perfume",
+        "subcategory": "",
+        "lang": "en",
+        "description": ""
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2200"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2200/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2200/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2201",
+      "attributes": {
+        "website-category-id": 2201,
+        "maincategory": "Beauty and Perfume",
+        "subcategory": "Beauty and Perfume",
+        "lang": "en",
+        "description": "Production and retail of perfumes, essential oils and beauty products (e.g. shampoos, deodorants, suntan lotion). Hairdressing and other beauty treatment including beauty therapists, nail technicians and barbers."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2201"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2201/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2201/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2300",
+      "attributes": {
+        "website-category-id": 2300,
+        "maincategory": "IT",
+        "subcategory": "",
+        "lang": "en",
+        "description": ""
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2300"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2300/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2300/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2301",
+      "attributes": {
+        "website-category-id": 2301,
+        "maincategory": "IT",
+        "subcategory": "IT",
+        "lang": "en",
+        "description": "Telecommunication activities including telephone, television & internet networks, and wireless & satellite infrastructure. Computer programming activities including web development, database administration and software development. Computer consultancy activities including the design of computer systems, but excluding the sale and installation of computer equipment."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2301"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2301/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2301/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2400",
+      "attributes": {
+        "website-category-id": 2400,
+        "maincategory": "Financial Services and Insurance",
+        "subcategory": "",
+        "lang": "en",
+        "description": ""
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2400"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2400/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2400/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2401",
+      "attributes": {
+        "website-category-id": 2401,
+        "maincategory": "Financial Services and Insurance",
+        "subcategory": "Financial Service",
+        "lang": "en",
+        "description": "Financial services excluding insurance and pension funding. Including banks, financial advisors, holding companies, mortgage brokers and actuarial services."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2401"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2401/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2401/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2402",
+      "attributes": {
+        "website-category-id": 2402,
+        "maincategory": "Financial Services and Insurance",
+        "subcategory": "Insurance and Pension Funding",
+        "lang": "en",
+        "description": "Insurance services and pension funding, excluding compulsory social security schemes."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2402"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2402/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2402/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2403",
+      "attributes": {
+        "website-category-id": 2403,
+        "maincategory": "Financial Services and Insurance",
+        "subcategory": "Accounting Services",
+        "lang": "en",
+        "description": "Accounting services, including bookkeeping, auditing activities and tax consultancy."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2403"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2403/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2403/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2499",
+      "attributes": {
+        "website-category-id": 2499,
+        "maincategory": "Financial Services and Insurance",
+        "subcategory": "Other (Financial Service)",
+        "lang": "en",
+        "description": "Other financial and insurance services not included in another category."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2499"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2499/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2499/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2500",
+      "attributes": {
+        "website-category-id": 2500,
+        "maincategory": "Real Estate",
+        "subcategory": "",
+        "lang": "en",
+        "description": ""
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2500"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2500/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2500/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2501",
+      "attributes": {
+        "website-category-id": 2501,
+        "maincategory": "Real Estate",
+        "subcategory": "Real Estate",
+        "lang": "en",
+        "description": "Buying, selling, renting and operating of own real estate, and management of real estate. Includes housing associations and trusts. Real estate agencies and letting agents."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2501"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2501/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2501/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2600",
+      "attributes": {
+        "website-category-id": 2600,
+        "maincategory": "Project Management, Marketing and Admin",
+        "subcategory": "",
+        "lang": "en",
+        "description": ""
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2600"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2600/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2600/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2601",
+      "attributes": {
+        "website-category-id": 2601,
+        "maincategory": "Project Management, Marketing and Admin",
+        "subcategory": "Office Admin and Support",
+        "lang": "en",
+        "description": "Office administrative and support activities, call centres, conventions and trade show organisation, and other business supprt activities, such as translation and interpretation services, administration of loyalty programmes, independent auctioneers. Excluding collection agencies, credit bureaux or packaging activities."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2601"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2601/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2601/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2602",
+      "attributes": {
+        "website-category-id": 2602,
+        "maincategory": "Project Management, Marketing and Admin",
+        "subcategory": "Advertising, Market Research and PR",
+        "lang": "en",
+        "description": "Advertising agencies and services including activities around marketing campaigns and product promotion. Media representation, market research, public opinion polling, and public relations and communication activities."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2602"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2602/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2602/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2603",
+      "attributes": {
+        "website-category-id": 2603,
+        "maincategory": "Project Management, Marketing and Admin",
+        "subcategory": "Management Consulting",
+        "lang": "en",
+        "description": "Management consultancy activities, typically involving giving guidance and operational assistance to businesses to help them in planning, organisation, efficiency, etc. Excluding public relations and communication activities."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2603"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2603/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2603/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2604",
+      "attributes": {
+        "website-category-id": 2604,
+        "maincategory": "Project Management, Marketing and Admin",
+        "subcategory": "Holding Companies",
+        "lang": "en",
+        "description": "Activities of head offices and holding companies that oversee or manage other company units. These typically involve organisational planning and decision making activities."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2604"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2604/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2604/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2699",
+      "attributes": {
+        "website-category-id": 2699,
+        "maincategory": "Project Management, Marketing and Admin",
+        "subcategory": "Other (Project Management, Marketing and Admin)",
+        "lang": "en",
+        "description": "Other project management, marketing or administration activities not included in another category, including regulation of business operations and administration of public policies."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2699"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2699/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2699/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2700",
+      "attributes": {
+        "website-category-id": 2700,
+        "maincategory": "Employment, Recruitment, HR",
+        "subcategory": "",
+        "lang": "en",
+        "description": ""
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2700"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2700/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2700/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2701",
+      "attributes": {
+        "website-category-id": 2701,
+        "maincategory": "Employment, Recruitment, HR",
+        "subcategory": "Employment and Human Resources",
+        "lang": "en",
+        "description": "Employment activities including recruitment agencies, temping agencies and human resources provision."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2701"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2701/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2701/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2800",
+      "attributes": {
+        "website-category-id": 2800,
+        "maincategory": "Science and Engineering",
+        "subcategory": "",
+        "lang": "en",
+        "description": ""
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2800"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2800/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2800/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2801",
+      "attributes": {
+        "website-category-id": 2801,
+        "maincategory": "Science and Engineering",
+        "subcategory": "Engineers",
+        "lang": "en",
+        "description": "Engineering activities, technical consultancy, and scientific research and development, including surveying & mapping services and technical testing. Repair and installation of machinery and equipment, e.g. boiler cleaning, and servicing & repair of vending machines. Excludes repair and maintenance of transport equipment, computers and clothing accessories."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2801"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2801/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2801/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2802",
+      "attributes": {
+        "website-category-id": 2802,
+        "maincategory": "Science and Engineering",
+        "subcategory": "Scientific Activities",
+        "lang": "en",
+        "description": "Scientific activities, excluding research and development. Including quantity surveyors, environmental consulting, weather forecasting activities and patent brokerage."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2802"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2802/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2802/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2899",
+      "attributes": {
+        "website-category-id": 2899,
+        "maincategory": "Science and Engineering",
+        "subcategory": "Other (Science and Engineering)",
+        "lang": "en",
+        "description": "Other scientific or engineering activities not included in another category."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2899"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2899/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2899/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2900",
+      "attributes": {
+        "website-category-id": 2900,
+        "maincategory": "Legal, Public Order, Security",
+        "subcategory": "",
+        "lang": "en",
+        "description": ""
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2900"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2900/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2900/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2901",
+      "attributes": {
+        "website-category-id": 2901,
+        "maincategory": "Legal, Public Order, Security",
+        "subcategory": "Legal Services",
+        "lang": "en",
+        "description": "Legal representation and document preparation, including conveyancing, drawing up of wills, advising clients on legal matters and other activities of barristers and solicitors."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2901"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2901/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2901/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2902",
+      "attributes": {
+        "website-category-id": 2902,
+        "maincategory": "Legal, Public Order, Security",
+        "subcategory": "Security",
+        "lang": "en",
+        "description": "Security & investigation activities, including bodyguard services, security systems/burglar alarms/CCTV activities, locksmiths and private investigators."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2902"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2902/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2902/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2903",
+      "attributes": {
+        "website-category-id": 2903,
+        "maincategory": "Legal, Public Order, Security",
+        "subcategory": "Defence, Public Order and Safety",
+        "lang": "en",
+        "description": "Provision of services to the community as a whole, including foreign affairs, defence, police forces and fire fighting services."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2903"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2903/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2903/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "2999",
+      "attributes": {
+        "website-category-id": 2999,
+        "maincategory": "Legal, Public Order, Security",
+        "subcategory": "Other (Legal, Public Order, Security)",
+        "lang": "en",
+        "description": "Other legal, puclic order or security services not included in another category."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2999"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/2999/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/2999/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "3000",
+      "attributes": {
+        "website-category-id": 3000,
+        "maincategory": "Cleaning and Facility Management Services",
+        "subcategory": "",
+        "lang": "en",
+        "description": ""
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3000"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3000/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/3000/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "3001",
+      "attributes": {
+        "website-category-id": 3001,
+        "maincategory": "Cleaning and Facility Management Services",
+        "subcategory": "Cleaning, Landscaping and Building Maintenance",
+        "lang": "en",
+        "description": "Facilities support activities including commercial & domestic cleaning of buildings, sale of cleaning equipment, upholstery cleaners, chimney sweeps, launderettes, window cleaners and decontamination services. Planting and maintenance of parks, gardens and greenery (e.g. landscapers, gardeners and fencers)."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3001"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3001/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/3001/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "3099",
+      "attributes": {
+        "website-category-id": 3099,
+        "maincategory": "Cleaning and Facility Management Services",
+        "subcategory": "Other (Cleaning and Caretaking Services)",
+        "lang": "en",
+        "description": "Other cleaning or caretaking services not included in another category."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3099"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3099/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/3099/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "3100",
+      "attributes": {
+        "website-category-id": 3100,
+        "maincategory": "Education",
+        "subcategory": "",
+        "lang": "en",
+        "description": ""
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3100"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3100/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/3100/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "3101",
+      "attributes": {
+        "website-category-id": 3101,
+        "maincategory": "Education",
+        "subcategory": "Pre-School & Childcare",
+        "lang": "en",
+        "description": "Pre-school education and childcare including childminders, creches and nursery schools."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3101"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3101/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/3101/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "3102",
+      "attributes": {
+        "website-category-id": 3102,
+        "maincategory": "Education",
+        "subcategory": "Schools, Colleges & Universities",
+        "lang": "en",
+        "description": "Formal education including schools, colleges, academies and universities."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3102"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3102/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/3102/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "3199",
+      "attributes": {
+        "website-category-id": 3199,
+        "maincategory": "Education",
+        "subcategory": "Other (Education)",
+        "lang": "en",
+        "description": "Other Types of Education. Informal education provided outside of the school and higher education system. Including education in sports, recreational activities, arts, drama, music, driving lessons, academic tutoring and lifeguard training. Other educational support activities, including student exchange programs and educational counselling."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3199"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3199/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/3199/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "3200",
+      "attributes": {
+        "website-category-id": 3200,
+        "maincategory": "Healthcare",
+        "subcategory": "",
+        "lang": "en",
+        "description": ""
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3200"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3200/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/3200/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "3201",
+      "attributes": {
+        "website-category-id": 3201,
+        "maincategory": "Healthcare",
+        "subcategory": "Medical Practices",
+        "lang": "en",
+        "description": "Hospitals and medical practices, including family planning centres. Excluding vets and dentists."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3201"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3201/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/3201/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "3202",
+      "attributes": {
+        "website-category-id": 3202,
+        "maincategory": "Healthcare",
+        "subcategory": "Dentists",
+        "lang": "en",
+        "description": "Dental activities including dentists, orthodontists and oral pathologists."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3202"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3202/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/3202/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "3203",
+      "attributes": {
+        "website-category-id": 3203,
+        "maincategory": "Healthcare",
+        "subcategory": "Vets",
+        "lang": "en",
+        "description": "Animal health care activities carried out by qualified vets, excluding activities relating to artificial insemination."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3203"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3203/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/3203/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "3204",
+      "attributes": {
+        "website-category-id": 3204,
+        "maincategory": "Healthcare",
+        "subcategory": "Residential Care",
+        "lang": "en",
+        "description": "Residential care activities, including orphanages, homeless shelters, juvenile correction homes, nursing homes, rehabilitation clinics and retirement communities."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3204"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3204/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/3204/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "3299",
+      "attributes": {
+        "website-category-id": 3299,
+        "maincategory": "Healthcare",
+        "subcategory": "Other (Healthcare)",
+        "lang": "en",
+        "description": "Other Types of Healthcare Provision. Specialist healthcare activities not included in other categories, e.g. opticians, occupational therapy, chiropody, homeopathy and physiotherapy."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3299"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3299/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/3299/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "3300",
+      "attributes": {
+        "website-category-id": 3300,
+        "maincategory": "Community Groups, Social, Political and Religious",
+        "subcategory": "",
+        "lang": "en",
+        "description": ""
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3300"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3300/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/3300/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "3301",
+      "attributes": {
+        "website-category-id": 3301,
+        "maincategory": "Community Groups, Social, Political and Religious",
+        "subcategory": "Governmental Administration and Regulation",
+        "lang": "en",
+        "description": "Public administration and regulatory bodies (e.g. customs administration, tax collection and administration of government-provided retirement pensions). Extraterratorial organisations e.g. UN, WHO and EC."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3301"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3301/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/3301/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "3302",
+      "attributes": {
+        "website-category-id": 3302,
+        "maincategory": "Community Groups, Social, Political and Religious",
+        "subcategory": "Religious Organisations",
+        "lang": "en",
+        "description": "Religious organisations including churches, mosques, temples, synagogues, and religious retreats."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3302"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3302/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/3302/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "3399",
+      "attributes": {
+        "website-category-id": 3399,
+        "maincategory": "Community Groups, Social, Political and Religious",
+        "subcategory": "Other (Community Groups, Social, Political and Religious)",
+        "lang": "en",
+        "description": "Other community groups, social, political services not included in another category."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3399"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3399/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/3399/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "3400",
+      "attributes": {
+        "website-category-id": 3400,
+        "maincategory": "Personal Services",
+        "subcategory": "",
+        "lang": "en",
+        "description": ""
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3400"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3400/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/3400/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "3401",
+      "attributes": {
+        "website-category-id": 3401,
+        "maincategory": "Personal Services",
+        "subcategory": "Residential Cleaning",
+        "lang": "en",
+        "description": "Residential cleaning activities by individuals/small companies."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3401"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3401/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/3401/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "3402",
+      "attributes": {
+        "website-category-id": 3402,
+        "maincategory": "Personal Services",
+        "subcategory": "Pet Services",
+        "lang": "en",
+        "description": "Pet services including, boarding, grooming, sitting and training of pets."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3402"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3402/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/3402/measurements"
+          }
+        }
+      }
+    },
+    {
+      "type": "categories",
+      "id": "3499",
+      "attributes": {
+        "website-category-id": 3499,
+        "maincategory": "Personal Services",
+        "subcategory": "Other (Personal Services)",
+        "lang": "en",
+        "description": "Other personal services not included elsewhere, spiritualist/astrological activities, social activities (dating & escort services, marriage bureaux), shoe shiners and valet car parkers."
+      },
+      "links": {
+        "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3499"
+      },
+      "relationships": {
+        "measurements": {
+          "meta": {
+            "total": 2
+          },
+          "links": {
+            "self": "http://x11980.adm.denic.de:8080/api/v1/categories/3499/relationships/measurements",
+            "related": "http://x11980.adm.denic.de:8080/api/v1/categories/3499/measurements"
+          }
+        }
+      }
+    }
+  ]
+}
