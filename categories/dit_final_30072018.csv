@@ -142,20 +142,11 @@ DIT ID;DIT Main Category;DIT Sub Category;Descriptions
 3401;Personal Services;Residential Cleaning;Residential cleaning activities by individuals/small companies.
 3402;Personal Services;Pet Services;Pet services including, boarding, grooming, sitting and training of pets.
 3499;Personal Services;Other (Personal Services);Other personal services not included elsewhere, spiritualist/astrological activities, social activities (dating & escort services, marriage bureaux), shoe shiners and valet car parkers.
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
+3500;Low Content;;
+3501;Low Content;Empty;The website is empty (white screen).
+3502;Low Content;Content Comming Soon;The domain was registered and content is comming.
+3503;Low Content;Buy the Domain;The domain is for sale.
+3504;Low Content;Reserved;"The website is reserved for something. The word ""reserved"" is explicitly stated!"
+3505;Low Content;Links to random pages;The website has numerous links to random other pages but it is not being offered for sale.
+3506;Low Content;Error Message;The website gives an error message i.e. 404, 607, etc.
+3599;Low Content;Other (Low Content);The website does not belong into any of the previously stated groups.
