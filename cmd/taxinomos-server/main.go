@@ -7,6 +7,7 @@ import (
 	"net/http"
 	"os"
 	"os/signal"
+	"strconv"
 	"sync"
 	"syscall"
 
@@ -30,13 +31,18 @@ var (
 	wg                  sync.WaitGroup
 	categoryList        interface{}
 	catfile             string
+	catlist             *categories.CategoryList
 	statusfile          string
 	statusList          interface{}
 	domainfile          string
-	domainList          interface{}
+	domainlist          []*domains.DomainDummy
 	measurementfile     string
 	measurementfilelock sync.RWMutex
 	resultfile          *os.File
+	domainidlock        sync.RWMutex
+	domainidfile        *os.File
+	domainidfilename    string
+	lastid              = 0
 )
 
 func main() {
@@ -46,6 +52,7 @@ func main() {
 	kingpin.Flag("statusfile", "File that contains the status information.").Default("statuses.json").Short('s').StringVar(&statusfile)
 	kingpin.Flag("domainfile", "File that contains the status information.").Default("domain.json").Short('d').StringVar(&domainfile)
 	kingpin.Flag("measurementfile", "File to write the results to.").Default("measurements.json").Short('m').StringVar(&measurementfile)
+	kingpin.Flag("idfile", "File to write the last domain id to.").Default("domainid.txt").Short('i').StringVar(&domainidfilename)
 
 	kingpin.Parse()
 
@@ -68,21 +75,29 @@ func main() {
 
 	log.Printf("Loading categories from file. ")
 
-	err := categories.LoadCategoriesFromFile(catfile, &categoryList)
+	cats, err := categories.LoadCategoriesFromCsvFile(catfile)
 	if err != nil {
 		log.Panic("Cannot load categories from file: %s - %s", catfile, err.Error())
 	}
 
+	catlist, err = categories.CreateCategoryList(cats)
 	log.Printf("Loading statuses from file.")
 	err = statuses.LoadStatusesFromFile(statusfile, &statusList)
 	if err != nil {
 		log.Panic("Cannot load statuses from file: %s - %s", statusfile, err.Error())
 	}
 
-	log.Printf("Loading domains from file")
-	err = domains.LoadDomainsFromFile(domainfile, &domainList)
+	domainidfile, err = os.OpenFile(domainidfilename, os.O_CREATE|os.O_RDWR, 0644)
 	if err != nil {
-		log.Panic("Cannot load domains from file: %s - %s", domainfile, err.Error())
+		log.Panic(err)
+	}
+	defer domainidfile.Close()
+	lastid = ReadLastId()
+	log.Printf("Last fetched domain id: %d", lastid)
+
+	domainlist, err = domains.LoadDomainsFromTxtFile(domainfile)
+	if err != nil {
+		log.Panic(err)
 	}
 
 	resultfile, err = os.OpenFile(measurementfile, os.O_CREATE|os.O_APPEND|os.O_RDWR, 0644)
@@ -124,18 +139,34 @@ func main() {
 	log.Println("Server exiting")
 }
 
+func ReadLastId() int {
+	content, _ := ioutil.ReadFile(domainidfilename)
+	id, _ := strconv.Atoi(string(content))
+	return id
+}
+
+func UpdateLastId(i int) {
+	domainidlock.Lock()
+	domainidfile.Truncate(0)
+	domainidfile.Seek(0, 0)
+	domainidfile.WriteString(strconv.Itoa(i))
+	lastid = i + 1
+	domainidlock.Unlock()
+}
+
 func FetchHeaders(c *gin.Context) {
 	c.Header("Access-Control-Allow-Origin", "*")
 	c.Header("Access-Control-Allow-Headers", "Authorization, Content-type")
 	c.Header("Content-Type", "application/vnd.api+json")
-	c.JSON(200, domainList)
+	c.JSON(200, domainlist[0])
 }
 
 func Fetch(c *gin.Context) {
 	c.Header("Access-Control-Allow-Origin", "*")
 	c.Header("Access-Control-Allow-Headers", "Authorization, Content-type")
 	c.Header("Content-Type", "application/vnd.api+json")
-	c.JSON(200, domainList)
+	c.JSON(200, domainlist[lastid])
+	UpdateLastId(lastid)
 
 }
 
@@ -144,7 +175,7 @@ func GetCategories(c *gin.Context) {
 	c.Header("Access-Control-Allow-Origin", "*")
 	c.Header("Access-Control-Allow-Headers", "Authorization, Content-type")
 	c.Header("Content-Type", "application/vnd.api+json")
-	c.JSON(200, categoryList)
+	c.JSON(200, catlist)
 }
 
 func GetStatuses(c *gin.Context) {
@@ -165,8 +196,6 @@ func Measurements(c *gin.Context) {
 		measurementfilelock.Unlock()
 	}
 
-	log.Printf("%#v", c.Request)
-	log.Printf("%#v", string(body))
 	c.Header("Access-Control-Allow-Origin", "*")
 	c.Header("Access-Control-Allow-Headers", "Authorization, Content-type")
 	c.Header("Content-Type", "application/vnd.api+json")
