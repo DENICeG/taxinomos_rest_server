@@ -94,8 +94,8 @@ func LoadCategoriesFromCsvFile(filename string) ([]*Category, error) {
 		cat.CategoryAttributes.WebsiteCategoryId = id
 		cat.CategoryAttributes.MainCategory = v[1]
 		cat.CategoryAttributes.SubCategory = v[2]
-		//cat.CategoryAttributes.Language = v[]
-		cat.CategoryAttributes.Description = v[3]
+		cat.CategoryAttributes.Language = v[3]
+		cat.CategoryAttributes.Description = v[4]
 		cat.CategoryLinks.Self = fmt.Sprintf("https://localhost:8080/api/v1/categories/%s", v[0])
 		categories = append(categories, cat)
 
