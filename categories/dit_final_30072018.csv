@@ -1,0 +1,161 @@
+DIT ID;DIT Main Category;DIT Sub Category;Descriptions
+1000;Agriculture, Forestry, Fishing;;
+1001;Agriculture, Forestry, Fishing;Agriculture;Activities relating to the growing & planting of plants and raising & breeding of animals for food production and other purposes. Including farms, vineyards, horse breeding, production of fur skins and renting of agricultural equipment.
+1002;Agriculture, Forestry, Fishing;Fishing;Fishing and farming of marine animals and fish for commercial purposes (includes whale catching, gathering shellfish). Excludes processing of fish, recreation fishing and boat/ship activities.
+1003;Agriculture, Forestry, Fishing;Forestry;Growing & logging of forests, gathering of forest products (e.g. truffles, cork, mosses), and other forestry services (e.g. forest fire fighting, forest tree nurseries, forest replanting).
+1099;Agriculture, Forestry, Fishing;Other (Agriculture, Forestry, Fishing);Other agriculture, forestry or fishing services not included in another category.
+1100;Mining and Drilling;;
+1101;Mining and Drilling;Mining and Drilling;Mining, drilling and quarrying activities, including the extraction of petroleum and natural gas.
+1200;Manufacturing ;;
+1201;Manufacturing ;"Manufacturing of Agricultural, Forestry and Gardening Supplies
+";Manufacture of agricultural, forestry and gardening supplies including fertilisers, pesticides and agricultural machinery (tractors, lawnmowers, harvesters, etc.).
+1202;Manufacturing ;Manufacturing of Chemicals;Manufacture of general chemicals, including petroleum products, plastics, paints and detergents.
+1203;Manufacturing ;Manufacturing of Clothes and Accessories;Manufacture of textiles, jewellery and clothing, including finishing activities like bleaching & dying, manufacturers of carpets, cushions & curtains, miliners and custom tailoring.
+1204;Manufacturing ;"Manufacturing of Computer, Electronic and Optical Products
+";Manufacturing of computing and electronic products, including measurement instruments, photographic equipment, batteries and wiring devices.
+1205;Manufacturing ;Manufacturing of Construction Products;Manufacture of parts that are integral to a building (e.g. wooden beams, windows, flooring), manufacture of construction equipment, and activities of stonemasons and other traditional craftsmen.
+1206;Manufacturing ;Manufacturing of Food Products;Processing and manufacture of food, drink and tobacco products. Note, this includes bakeries and pastry shops even though they also retail the food products. Manufacture of food and food supplements for farm animals and pets. This excludes food prepared for immediate consumption.
+1207;Manufacturing ;"Manufacturing of Furniture and Appliances
+";Manufacture of furniture and appliances, including finishing activities like upholstery of seats.
+1208;Manufacturing ;Manufacturing of Healthcare and Medical products;Manufacture of pharmaceutical products, medicines and medical equipment. Also includes the processing of blood.
+1209;Manufacturing ;Manufacturing of Information Technology and Telecommunications Goods;Manufacture of computers & peripheral equipment, communication equipment and consumer electronics. Manufacture of electronic components and boards.
+1210;Manufacturing ;Manufacturing of Leisure Equipment;Manufacture of musical instruments, sports goods, games, toys and other leisure equipment.
+1211;Manufacturing ;Manufacturing of Machinery and Equipment;Manufacture of machinery and equipment excluding items used predominantly for construction, agriculture or food/textile manufacturing. Including lifting equipment, power-driven hand tools and retreading machines.
+1212;Manufacturing ;Manufacturing of Metal Products;Manufacture of metal products excluding items used predominantly in construction, energy production/utilities, or transportation/storage. Including manufacture of weapons, forging and machining.
+1213;Manufacturing ;Manufacturing of Motor Vehicles;Manufacture of cars and car accessories, including tyres, trailers and electrical equipment. Excluding motorcycles and other forms of transport.
+1214;Manufacturing ;Manufacturing of Non-Electrical Consumer Goods;Manufacture of various other non-electrical consumer goods including safety equipment, umbrellas, pens, candles, coins and cigarette lighters.
+1215;Manufacturing ;Manufacturing of Raw Materials and Parts;Manufacture of components and raw materials, including products made from rubber, plastic, glass and ceramics, and manufacture of basic metals. Excluding tyres, and construction equipment and materials.
+1216;Manufacturing ;Manufacturing of Transportation Equipment;Manufacture of modes of transportation (excluding cars) and related equipment, and storage equipment such as steel drums and packaging.
+1217;Manufacturing ;Manufacturing of Wood and Paper Products;Manufacture of various wooden or paper products for use in the home, including wooden statuettes and ornaments, baskets, picture frames and sanitary products. Manufacture of/from pulp, paper and paperboard, and manufacture of paper stationary.
+1299;Manufacturing ;Other (Manufacturing);Other manufacturing activities not included in another category
+1300;Energy and Utility Suppliers;;
+1301;Energy and Utility Suppliers;Electricity;Electricity generation services including production, transmission, distribution and trade. Also includes manufacture of apparatus for electricity generation and distribution.
+1302;Energy and Utility Suppliers;Gas;Gas distribution services, including manufacture, supply and trade.
+1303;Energy and Utility Suppliers;Water Supply;Water collection, treatment & supply, and sewerage activities.
+1304;Energy and Utility Suppliers;Waste Collection, Treatment and Disposal Activities;Waste collection, treatment & disposal, as well as recovery of materials and decontamination activities. Includes car & vehicle dismantlers, asbestos removal and recycling.
+1400;Construction;;
+1401;Construction;Architects & Planners;Architectural services (e.g. urban design, structural building design and building surveyors).
+1402;Construction;Development of Building Projects;Construction of residential and non-residential buildings, including construction of extensions and attic/garage conversions. Project management of building projects. Demolition and site preparation services including excavation, test drilling and clearing of building sites.
+1403;Construction;Development of Infrastructure Projects;Project management and construction of roads, railways, and other infrastructure & civil engineering projects. Including sports facilities, and utility and water projects (e.g. reservoirs, power plants, harbours). Also includes related activies like painting of road markings.
+1404;Construction;Electrical Installation;Electrical installation, including electricians, lighting experts, PAT testing services, aerial/network specialists and installation of solar panels.
+1405;Construction;Plumbing, Heating and Air-Conditioning Installation;Plumbing, heating and air-conditioning services, including plumbers, drainage specialists, heating engineers and bathroom & swimming pool specialists.
+1406;Construction;Roofing Activities;Roofing activities including roof erection, guttering and roof tiling, slating and thatching.
+1407;Construction;Painting and Glazing;Painting and glazing services, including: painters & decorators, glazers (fitters of windows & mirrors), stained glass specialists and conservatory construction.
+1408;Construction;Floor and Wall Covering;Floor and wall covering services, including laying, tiling, hanging or fitting of tiles, wallpaper, interior cladding and carpets.
+1409;Construction;Plastering;Plastering and rendering services including application of stucco and other lathing materials.
+1410;Construction;Joinery Installation;Joinery installation including carpentry, joinery, kitchen/bedroom/shop design & installation, and installers of doors and staircases.
+1411;Construction;Rental of Construction and Earthmoving Machinery;Renting & leasing of construction equipment/machinery without erection/operator, including crane lorries, scaffolding and machine tools.
+1499;Construction;Other (Construction);Other construction activities including access/scaffolding suppliers, construction of foundations, damp proofing, installation of elevators, revolving doors, lightning conductors and cleaning following construction. Other construction-related organisations not included in other categories. 
+1500;Automotive;;
+1501;Automotive;Sale of Motor Vehicles;Sale of motor vehicles (e.g. car dealerships).
+1502;Automotive;Maintenance and Repair of Motor Vehicles;Maintenance and repair of motor vehicles including breakdown recovery, car repairs, car servicing, mechanics, auto engineers and petrol stations.
+1503;Automotive;Rental of Motor Vehicles;Rental of motor vehicles (including cars, trucks and recreational vehicles) without a driver.
+1504;Automotive;Sale, Maintenance and Repair of Motorcycles and Related Parts and Accessories;Motorcycle sales, repairs & services including sale of parts and accessories.
+1505;Automotive;Trade of Motor Vehicle Parts and Accessories;Wholesale & retail trade of car accessories, parts & electrics (excludes retail of fuel).
+1599;Automotive;Other (Automotive);Other automotive services not included in another category.
+1600;Trade;;
+1601;Trade;General Mixed Trade;Retail and wholsale of mixed goods or specialised goods not included in another category, e.g. retail through vending machines, mail order and online shops. Excludes supermarkets where food and drink products dominate.
+1602;Trade;Sale of Agricultural, Forestry and Gardening Supplies;Sale of agricultural equipment, materials and supplies, including sale of live animals, flowers and plants at garden centres/nurseries and pet shops. Wholesale of grains and animal feeds.
+1603;Trade;Sale of Clothes and Accessories;Wholesale/retail of textiles, clothing, fur, footwear and leather goods. Including retail blinds and carperts, retail of clocks & watches, jewellers, bridal shops & dressmakers, and fancy dress shops. Repair of clocks, watches, footwear and leather goods as well as washing and dry cleaning of clothing and textiles.
+1604;Trade;Sale of Construction Products;Sale of parts that are integral to a building including builder's merchants and bathroom showrooms. Retail of construction machinery and equipment including DIY stores.
+1605;Trade;Sale of Electronics and Consumer goods;Retail, repair and parts of electrical household appliances and consumer electronics.
+1606;Trade;Sale of Food Products;Sale of food, beverages and tobacco, either from a physical shop or an online retailer, excluding food manufacturers such as bakeries. E.g. farm shops, butchers, sweet shops, health food shops, off-licenses and wine merchants.
+1607;Trade;Sale of Furniture and Appliances;Retail, wholesale, rental and repair of furniture & household goods, including antique dealers, auction rooms, reupholstery, piano-tuning and keycutting services.
+1608;Trade;Sale of Industrial Products;Retail of industrial products including fuels, metals, chemical, rubber and plastic products.
+1609;Trade;Sale of Information Technology and Telecommunications goods;Wholesale, retail and repair of IT and telecommunication goods, including hardware, software, microchips, games consoles, mobile phones, televisions and aerial supplies.
+1610;Trade;Sale of Leisure Equipment;Retail of leisure equipment, including art & craft shops, cycle shops, toy & model shops, and party supplies
+1611;Trade;Sale of Machinery and Equipment;Retail and wholesale of machinery, industrial equipment, ships and aircraft. Wholesale of machinery & equipment.
+1612;Trade;Sale of Medical and Pharmaceutical products;Wholesale and retail of pharmaceutical, medical and orthopaedic goods including dispensing chemists.
+1613;Trade;Sale of Published Goods;Retail of books, newspapers and stationary.
+1699;Trade;Other (Trade);Other retail or wholesale services not included in another category.
+1700;Transportation;;
+1701;Transportation;Transport of Persons;Passenger air transport, including scheduled & charter flights, aero clubs and sightseeing flights. Passenger transport by land or water, including taxi operation, coach hire and railways.
+1702;Transportation;Transport of Freight;Transport of goods by rail, air, land, pipeline, water or space, and space transport of passengers. Renting & leasing of air transport equipment. Services related to freight transport and storage activities including production of storage containers, repair of transportation, removals & storage, house clearance and packaging activities. Postal & courier activities, such as pickup, transport and delivery of letters and parcels.
+1799;Transportation;Other (Transportation);Other transportation activities not included in another category.
+1800;Tourism and Accommodation;;
+1801;Tourism and Accommodation;Hotels, Guest Houses and Hostels;Short stay accommodation with services (cleaning, food, etc) available. Including bed & breakfasts, independent hotels & hotel chains, youth hostels, guest houses and motels.
+1802;Tourism and Accommodation;Self-Catered Acommodation;Self-contained short-stay accmmodation, including holiday cottages, villas and chalets.
+1803;Tourism and Accommodation;Camp Sites and Caravan Parks;Camp sites, caravan parks, holiday centres and villages.
+1804;Tourism and Accommodation;Travel Agency and Tour Operators;Tourist activities, such as sightseeing trips and leisure activities that are targeted at holiday-makers, event ticket retailers, tourist locations and event venues. Travel agency activities, including retail/booking of travel, tour, and accommodation services.
+1899;Tourism and Accommodation;Other (Tourism and Accommodation);Other tourism activities and accommodation not included in another category, including student residences, boarding houses, and websites primarily offering tourism-related information as a service.
+1900;Restaurants, Bars, Cafes, Catering;;
+1901;Restaurants, Bars, Cafes, Catering;Restaurants, Cafes, Food Stands, Canteens;Cafes and restaurants, distinguished as specialising in non-alcoholic drinks (e.g. tea or coffee) and/or food and allowing customers to eat/drink on-site. Retailers of meals/snacks that are 'ready to eat' but who do not allow customers to eat on-site, e.g. takeaways.
+1902;Restaurants, Bars, Cafes, Catering;Bars ;Beverage serving activities, including public houses (pubs), bars, taverns, nightclubs etc. characterised as having an area for social drinking, unlike restaurants which are primarily for eating.
+1903;Restaurants, Bars, Cafes, Catering;Event Catering;Event catering activities, usually on a contract-basis.
+1999;Restaurants, Bars, Cafes, Catering;Other (Restaurants, Bars, Cafes, Catering);Other restaurants, bars, cafes or catering activities not included in another category.
+2000;Publishing, Printing and Photography;;
+2001;Publishing, Printing and Photography;Publishing & Printing;Publishing of books, directories, mailing lists, journals, periodicals, newspapers, greeting cards and related activities. Printing, reproduction of recorded media and related activities. Includes printing onto textiles and binding activities.
+2002;Publishing, Printing and Photography;Design & Photography;Specialised design activities from a range of disciplines, including fashion design, industrial design, graphic design and interior decorators. Photographic activities including portrait and specialist photography, and film processing.
+2100;Leisure & Entertainment;;
+2101;Leisure & Entertainment;Cultural & Arts;Creative arts and entertainment activities, including libraries, theatre, music and writing. Cultural and natural tourist attractions, including museums, galleries, historical sites, zoos and botanical gardens. Excludes sports, general recreational activities, gambling and commercial art galleries.
+2102;Leisure & Entertainment;Television, Film & Music Production;Production and distribution of television, film, sound and music, including radio and television broadcasting and activities of cinemas.
+2103;Leisure & Entertainment;Sport;Sports activities including sports facilities & clubs, fitness facilities such as gyms, health clubs and leisure centres, and recreational fishing, hunting and racing.
+2104;Leisure & Entertainment;Gambling & Betting;Gambling & betting activities, including bookmakers, casinos and lottery ticket retailers.
+2105;Leisure & Entertainment;Adult Entertainment;Adult entertainment intended to be used by adults only, typically including sexual content. Including sex shops, strip clubs and pornography.
+2199;Leisure & Entertainment;Other (Leisure & Entertainment);Other leisure activities not included elsewhere, including rental of recreational goods & media, massage parlours, discos, night clubs, amusement/theme parks and other recreational/physical well-being activities.
+2200;Beauty and Perfume;;
+2201;Beauty and Perfume;Beauty and Perfume;Production and retail of perfumes, essential oils and beauty products (e.g. shampoos, deodorants, suntan lotion). Hairdressing and other beauty treatment including beauty therapists, nail technicians and barbers.
+2300;IT;;
+2301;IT;IT;Telecommunication activities including telephone, television & internet networks, and wireless & satellite infrastructure. Computer programming activities including web development, database administration and software development. Computer consultancy activities including the design of computer systems, but excluding the sale and installation of computer equipment.
+2400;Financial Services and Insurance;;
+2401;Financial Services and Insurance;Financial Service;Financial services excluding insurance and pension funding. Including banks, financial advisors, holding companies, mortgage brokers and actuarial services.
+2402;Financial Services and Insurance;Insurance and Pension Funding;Insurance services and pension funding, excluding compulsory social security schemes.
+2403;Financial Services and Insurance;Accounting Services;Accounting services, including bookkeeping, auditing activities and tax consultancy.
+2499;Financial Services and Insurance;Other (Financial Service);Other financial and insurance services not included in another category.
+2500;Real Estate;;
+2501;Real Estate;Real Estate;Buying, selling, renting and operating of own real estate, and management of real estate. Includes housing associations and trusts. Real estate agencies and letting agents.
+2600;Project Management, Marketing and Admin;;
+2601;Project Management, Marketing and Admin;Office Admin and Support ;Office administrative and support activities, call centres, conventions and trade show organisation, and other business supprt activities, such as translation and interpretation services, administration of loyalty programmes, independent auctioneers. Excluding collection agencies, credit bureaux or packaging activities.
+2602;Project Management, Marketing and Admin;Advertising, Market Research and PR;Advertising agencies and services including activities around marketing campaigns and product promotion. Media representation, market research, public opinion polling, and public relations and communication activities.
+2603;Project Management, Marketing and Admin;Management Consulting;Management consultancy activities, typically involving giving guidance and operational assistance to businesses to help them in planning, organisation, efficiency, etc. Excluding public relations and communication activities. 
+2604;Project Management, Marketing and Admin;Holding Companies;Activities of head offices and holding companies that oversee or manage other company units. These typically involve organisational planning and decision making activities.
+2699;Project Management, Marketing and Admin;Other (Project Management, Marketing and Admin);Other project management, marketing or administration activities not included in another category, including regulation of business operations and administration of public policies.
+2700;Employment, Recruitment, HR;;
+2701;Employment, Recruitment, HR;Employment and Human Resources;Employment activities including recruitment agencies, temping agencies and human resources provision.
+2800;Science and Engineering;;
+2801;Science and Engineering;Engineers;Engineering activities, technical consultancy, and scientific research and development, including surveying & mapping services and technical testing. Repair and installation of machinery and equipment, e.g. boiler cleaning, and servicing & repair of vending machines. Excludes repair and maintenance of transport equipment, computers and clothing accessories.
+2802;Science and Engineering;Scientific Activities;Scientific activities, excluding research and development. Including quantity surveyors, environmental consulting, weather forecasting activities and patent brokerage.
+2899;Science and Engineering;Other (Science and Engineering);Other scientific or engineering activities not included in another category.
+2900;Legal, Public Order, Security;;
+2901;Legal, Public Order, Security;Legal Services;Legal representation and document preparation, including conveyancing, drawing up of wills, advising clients on legal matters and other activities of barristers and solicitors.
+2902;Legal, Public Order, Security;Security;Security & investigation activities, including bodyguard services, security systems/burglar alarms/CCTV activities, locksmiths and private investigators.
+2903;Legal, Public Order, Security;Defence, Public Order and Safety;Provision of services to the community as a whole, including foreign affairs, defence, police forces and fire fighting services.
+2999;Legal, Public Order, Security;Other (Legal, Public Order, Security);Other legal, puclic order or security services not included in another category.
+3000;Cleaning and Facility Management Services;;
+3001;Cleaning and Facility Management Services;Cleaning, Landscaping and Building Maintenance;Facilities support activities including commercial & domestic cleaning of buildings, sale of cleaning equipment, upholstery cleaners, chimney sweeps, launderettes, window cleaners and decontamination services. Planting and maintenance of parks, gardens and greenery (e.g. landscapers, gardeners and fencers).
+3099;Cleaning and Facility Management Services;Other (Cleaning and Caretaking Services);Other cleaning or caretaking services not included in another category.
+3100;Education;;
+3101;Education;Pre-School & Childcare;Pre-school education and childcare including childminders, creches and nursery schools.
+3102;Education;Schools, Colleges & Universities;Formal education including schools, colleges, academies and universities.
+3199;Education;Other (Education);Other Types of Education. Informal education provided outside of the school and higher education system. Including education in sports, recreational activities, arts, drama, music, driving lessons, academic tutoring and lifeguard training. Other educational support activities, including student exchange programs and educational counselling.
+3200;Healthcare;;
+3201;Healthcare;Medical Practices;Hospitals and medical practices, including family planning centres. Excluding vets and dentists.
+3202;Healthcare;Dentists;Dental activities including dentists, orthodontists and oral pathologists.
+3203;Healthcare;Vets;Animal health care activities carried out by qualified vets, excluding activities relating to artificial insemination.
+3204;Healthcare;Residential Care;Residential care activities, including orphanages, homeless shelters, juvenile correction homes, nursing homes, rehabilitation clinics and retirement communities.
+3299;Healthcare;Other (Healthcare);Other Types of Healthcare Provision. Specialist healthcare activities not included in other categories, e.g. opticians, occupational therapy, chiropody, homeopathy and physiotherapy.
+3300;Community Groups, Social, Political and Religious;;
+3301;Community Groups, Social, Political and Religious;Governmental Administration and Regulation;Public administration and regulatory bodies (e.g. customs administration, tax collection and administration of government-provided retirement pensions). Extraterratorial organisations e.g. UN, WHO and EC.
+3302;Community Groups, Social, Political and Religious;Religious Organisations;Religious organisations including churches, mosques, temples, synagogues, and religious retreats.
+3399;Community Groups, Social, Political and Religious;Other (Community Groups, Social, Political and Religious);Other community groups, social, political services not included in another category.
+3400;Personal Services;;
+3401;Personal Services;Residential Cleaning;Residential cleaning activities by individuals/small companies.
+3402;Personal Services;Pet Services;Pet services including, boarding, grooming, sitting and training of pets.
+3499;Personal Services;Other (Personal Services);Other personal services not included elsewhere, spiritualist/astrological activities, social activities (dating & escort services, marriage bureaux), shoe shiners and valet car parkers.
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
