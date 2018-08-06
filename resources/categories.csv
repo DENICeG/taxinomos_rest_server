@@ -7,16 +7,13 @@ DIT ID;DIT Main Category;DIT Sub Category;Language;Descriptions
 1100;Mining and Drilling;;en;
 1101;Mining and Drilling;Mining and Drilling;en;Mining, drilling and quarrying activities, including the extraction of petroleum and natural gas.
 1200;Manufacturing ;;en;
-1201;Manufacturing ;"Manufacturing of Agricultural, Forestry and Gardening Supplies
-";en;Manufacture of agricultural, forestry and gardening supplies including fertilisers, pesticides and agricultural machinery (tractors, lawnmowers, harvesters, etc.).
+1201;Manufacturing ;"Manufacturing of Agricultural, Forestry and Gardening Supplies";en;Manufacture of agricultural, forestry and gardening supplies including fertilisers, pesticides and agricultural machinery (tractors, lawnmowers, harvesters, etc.).
 1202;Manufacturing ;Manufacturing of Chemicals;en;Manufacture of general chemicals, including petroleum products, plastics, paints and detergents.
 1203;Manufacturing ;Manufacturing of Clothes and Accessories;en;Manufacture of textiles, jewellery and clothing, including finishing activities like bleaching & dying, manufacturers of carpets, cushions & curtains, miliners and custom tailoring.
-1204;Manufacturing ;"Manufacturing of Computer, Electronic and Optical Products
-";en;Manufacturing of computing and electronic products, including measurement instruments, photographic equipment, batteries and wiring devices.
+1204;Manufacturing ;Manufacturing of Computer, Electronic and Optical Products;en;Manufacturing of computing and electronic products, including measurement instruments, photographic equipment, batteries and wiring devices.
 1205;Manufacturing ;Manufacturing of Construction Products;en;Manufacture of parts that are integral to a building (e.g. wooden beams, windows, flooring), manufacture of construction equipment, and activities of stonemasons and other traditional craftsmen.
 1206;Manufacturing ;Manufacturing of Food Products;en;Processing and manufacture of food, drink and tobacco products. Note, this includes bakeries and pastry shops even though they also retail the food products. Manufacture of food and food supplements for farm animals and pets. This excludes food prepared for immediate consumption.
-1207;Manufacturing ;"Manufacturing of Furniture and Appliances
-";en;Manufacture of furniture and appliances, including finishing activities like upholstery of seats.
+1207;Manufacturing ;"Manufacturing of Furniture and Appliances";en;Manufacture of furniture and appliances, including finishing activities like upholstery of seats.
 1208;Manufacturing ;Manufacturing of Healthcare and Medical products;en;Manufacture of pharmaceutical products, medicines and medical equipment. Also includes the processing of blood.
 1209;Manufacturing ;Manufacturing of Information Technology and Telecommunications Goods;en;Manufacture of computers & peripheral equipment, communication equipment and consumer electronics. Manufacture of electronic components and boards.
 1210;Manufacturing ;Manufacturing of Leisure Equipment;en;Manufacture of musical instruments, sports goods, games, toys and other leisure equipment.
@@ -92,6 +89,7 @@ DIT ID;DIT Main Category;DIT Sub Category;Language;Descriptions
 2103;Leisure & Entertainment;Sport;en;Sports activities including sports facilities & clubs, fitness facilities such as gyms, health clubs and leisure centres, and recreational fishing, hunting and racing.
 2104;Leisure & Entertainment;Gambling & Betting;en;Gambling & betting activities, including bookmakers, casinos and lottery ticket retailers.
 2105;Leisure & Entertainment;Adult Entertainment;en;Adult entertainment intended to be used by adults only, typically including sexual content. Including sex shops, strip clubs and pornography.
+2106;Leisure & Entertainment;Live Music;en;Events where Live Music is played like Concerts and Festivals
 2199;Leisure & Entertainment;Other (Leisure & Entertainment);en;Other leisure activities not included elsewhere, including rental of recreational goods & media, massage parlours, discos, night clubs, amusement/theme parks and other recreational/physical well-being activities.
 2200;Beauty and Perfume;;en;
 2201;Beauty and Perfume;Beauty and Perfume;en;Production and retail of perfumes, essential oils and beauty products (e.g. shampoos, deodorants, suntan lotion). Hairdressing and other beauty treatment including beauty therapists, nail technicians and barbers.
@@ -149,4 +147,13 @@ DIT ID;DIT Main Category;DIT Sub Category;Language;Descriptions
 3504;Low Content;Reserved;en;"The website is reserved for something. The word ""reserved"" is explicitly stated!"
 3505;Low Content;Links to random pages;en;The website has numerous links to random other pages but it is not being offered for sale.
 3506;Low Content;Error Message;en;The website gives an error message i.e. 404, 607, etc.
+3507;Low Content;Password Protected;en;The website is protected by a password
 3599;Low Content;Other (Low Content);en;The website does not belong into any of the previously stated groups.
+3600;Online Media;;en;
+3601;Online Media;Social Network;en;Social Networks similar to facebook, 
+3602;Online Media;Job Plattform;en;Plattforms of every kind connected to work like LinkedIn, Monster, Indeed
+3603;Online Media;Blog;en;Blogs of every kind
+3604;Online Media;Forum;en;Online forums of every kind
+3605;Online Media;Travel Plattforms;en;Plattforms like TripAdvisor
+3606;Online Media;Information Page;en;General Information Pages which have an official character like websites by cities
+3699;Online Media;Other (Online Media);en;Stuff which doesnt fit in any other category
